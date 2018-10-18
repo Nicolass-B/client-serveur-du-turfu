@@ -1,0 +1,8 @@
+//
+// Created by tlxlr on 18/10/2018.
+//
+
+#ifndef CLIENT_SERVEUR_DU_TURFU_CLIENT_H
+#define CLIENT_SERVEUR_DU_TURFU_CLIENT_H
+
+#endif //CLIENT_SERVEUR_DU_TURFU_CLIENT_H
