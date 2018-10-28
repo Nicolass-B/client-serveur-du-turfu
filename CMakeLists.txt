@@ -3,4 +3,4 @@ project(client-serveur-du-turfu)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(client-serveur-du-turfu client.c client.h server.c server.h)
+add_executable(client-serveur-du-turfu server.c)
